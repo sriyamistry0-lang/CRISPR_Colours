@@ -1,0 +1,13 @@
+
+============================================================
+           CRISPR DESIGN CERTIFICATE OF ANALYSIS
+============================================================
+Project:       E. coli Kill-Switch (gyrA)
+Spacer:        GACCTTGCGAGAGAAATTAC
+PAM:           NGG (Verified)
+------------------------------------------------------------
+[STABILITY]
+GC Content:    45.0%
+Melting Temp:  58.00C
+Status:        PASS (Verified in SnapGene)
+============================================================
